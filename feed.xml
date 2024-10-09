@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-10-04T11:05:00+03:00">
+<shop>
+   <name>Безлимитик.ру</name>
+   <company>Безлимитик.ру</company>
+   <url>https://bezlimitik.ru</url>
+   <platform>Tilda Publishing</platform>
+   <version>1.0</version>
+   <currencies>
+      <currency id="RUB" rate="1"/>
+   </currencies>
+   <categories>
+<category id="756309639276">All</category>
+<category id="392807111578">Безлимитный интернет Мегафон</category>
+<category id="573337424651">Безлимитный интернет МТС</category>
+<category id="411067884087">Безлимитный интернет Билайн</category>
+<category id="625100042787">Безлимитный интернет Теле2</category>
+<category id="288870572703">Безлимитный интернет Ростелеком</category>
+<category id="896372232784">Безлимитный интернет Yota</category>
+<category id="664900858506">Тарифы для звонков Мегафон</category>
+<category id="883257525275">Тарифы для звонков МТС</category>
+<category id="201143943710">Тарифы для звонков Билайн</category>
+<category id="296326750036">Тарифы для звонков ТЕЛЕ2</category>
+<category id="600205961070">Тарифы для звонков Ростелеком</category>
+<category id="804558099371">Тарифы для звонков Yota</category>
+<category id="227380534531">Модемы 3G/4G</category>
+<category id="933369181641">Мобильные WiFi роутеры 3G/4G</category>
+<category id="551106762003">Стационарные роутеры</category>
+<category id="634968431453">Антенны 3G/4G усиливающие</category>
+<category id="672490921295">Комплекты оборудования</category>
+<category id="353283089075">Роутер с сим-картой</category>
+<category id="483544397920">Модем с сим-картой</category>
+<category id="769211492771">Интернет в автомобиль</category>
+<category id="853648665561">Тарифы Билайн на свой номер</category>
+<category id="540874402641">Тарифы МТС на свой номер</category>
+<category id="465851613211">Тарифы Теле2 на свой номер</category>
+<category id="821798137671">Тарифы Мегафон на свой номер</category>
+<category id="186128248451">Кабели и кабельные сборки</category>
+<category id="278474875281">Кронштейны</category>
+<category id="789571836931">Пигтейлы для модема</category>
+<category id="751966599281">Переходники и разъемы</category>
+</categories>
+<offers>
+		<offer id="223067424981">
+			<name>Тариф Билайн 100 Гб за 300 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S333</vendorCode>
+			<picture>https://static.tildacdn.com/stor3033-3365-4463-b135-306666656237/17779522.jpg</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-100-gb-300</url>
+			<count>9999</count>
+			<price>1000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 300 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 100 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет - отсутствует</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100 - 500 руб/мес</param>
+			<param name="Объем трафика">100 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">ПС</param>
+		</offer>
+
+		<offer id="687026765581">
+			<name>Тариф Билайн 50 Гб за 250 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S334</vendorCode>
+			<picture>https://static.tildacdn.com/stor6230-3133-4938-a165-643962656364/53084755.jpg</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-50-gb-250</url>
+			<count>9999</count>
+			<price>1000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 250 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 50 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет - отсутствует</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100 - 500 руб/мес</param>
+			<param name="Объем трафика">50 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">ПС</param>
+		</offer>
+
+		<offer id="807315419301">
+			<name>Сим-карта Билайн 20 Гб за 200 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S369</vendorCode>
+			<picture>https://static.tildacdn.com/stor6237-3863-4530-b931-313366623465/60033980.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-20-gb-200</url>
+			<count>9999</count>
+			<price>1000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 200 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 20 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет - отсутствует</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-500 руб/мес</param>
+			<param name="Объем трафика">20 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">ПС</param>
+		</offer>
+
+		<offer id="281203287071">
+			<name>eSim Билайн 500 гб интернета за 750 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S457</vendorCode>
+			<picture>https://static.tildacdn.com/stor3038-3934-4439-b733-633766386363/11799679.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/esim-beeline-bezlimit-600</url>
+			<count>9999</count>
+			<price>300.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 750 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 500 гб в месяц</li>
+				<li>можно использовать в любом устройстве: смартфон, планшет</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">500 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет</param>
+			<param name="Серия">S2M</param>
+		</offer>
+
+		<offer id="191355948571">
+			<name>Сим-карта Билайн 12 Гб за 200 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S417</vendorCode>
+			<picture>https://static.tildacdn.com/stor3837-6366-4230-b161-613837386339/80108032.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-12-gb-200</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 200 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 12 гб в месяц</li>
+				<li>можно использовать в любом устройстве: смартфон, планшет, модем, Wi-Fi роутер, автомагнитола, видеокамера</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-500 руб/мес</param>
+			<param name="Объем трафика">12 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">WF</param>
+		</offer>
+		<offer id="330680363401">
+			<name>Сим-карта Билайн 20 Гб за 250 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S418</vendorCode>
+			<picture>https://static.tildacdn.com/stor3638-6263-4335-b739-616437623663/55295253.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-20-gb-250</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 250 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 20 гб в месяц</li>
+				<li>можно использовать в любом устройстве: смартфон, планшет, модем, Wi-Fi роутер, автомагнитола, видеокамера</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-500 руб/мес</param>
+			<param name="Объем трафика">20 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">WF</param>
+		</offer>
+
+		<offer id="603430832501">
+			<name>Сим-карта Билайн 30 Гб за 350 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S419</vendorCode>
+			<picture>https://static.tildacdn.com/stor6262-3332-4365-b435-373265646163/14982503.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-30-gb-350</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 350 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 30 гб в месяц</li>
+				<li>можно использовать в любом устройстве: смартфон, планшет, модем, Wi-Fi роутер, автомагнитола, видеокамера</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-500 руб/мес</param>
+			<param name="Объем трафика">30 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">WF</param>
+		</offer>
+
+		<offer id="863290432351">
+			<name>Сим-карта Билайн 50 Гб за 400 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S420</vendorCode>
+			<picture>https://static.tildacdn.com/stor3363-3431-4837-b262-313831323164/13057442.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-50-gb-400</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 400 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 50 гб в месяц</li>
+				<li>можно использовать в любом устройстве: смартфон, планшет, модем, Wi-Fi роутер, автомагнитола, видеокамера</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-500 руб/мес</param>
+			<param name="Объем трафика">50 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">WF</param>
+		</offer>
+
+		<offer id="683099416451">
+			<name>Сим-карта Билайн 100 Гб за 500 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S421</vendorCode>
+			<picture>https://static.tildacdn.com/stor3239-3266-4464-a462-633437393731/40435561.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-100-gb-500</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 500 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 100 гб в месяц</li>
+				<li>можно использовать в любом устройстве: смартфон, планшет, модем, Wi-Fi роутер, автомагнитола, видеокамера</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">100 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">WF</param>
+		</offer>
+
+		<offer id="774915006271">
+			<name>Сим-карта Билайн 3 Гб за 120 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S486</vendorCode>
+			<picture>https://static.tildacdn.com/stor3837-3164-4161-a565-323730323435/27550775.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-3gb-120</url>
+			<count>9999</count>
+			<price>1000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 120 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 3 гб в месяц</li>
+				<li>можно использовать в любом устройстве: смартфон, планшет, модем, Wi-Fi роутер, автомагнитола, видеокамера</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-500 руб/мес</param>
+			<param name="Объем трафика">3 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="255560262321">
+			<name>Сим-карта Билайн 5 Гб за 150 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S485</vendorCode>
+			<picture>https://static.tildacdn.com/stor3563-3338-4631-a166-386436613737/42482025.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-5gb-150</url>
+			<count>9999</count>
+			<price>1000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 150 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 5 гб в месяц</li>
+				<li>можно использовать в любом устройстве: смартфон, планшет, модем, Wi-Fi роутер, автомагнитола, видеокамера</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-500 руб/мес</param>
+			<param name="Объем трафика">5 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="333751008151">
+			<name>Сим-карта Билайн 300 Гб за 990 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S484</vendorCode>
+			<picture>https://static.tildacdn.com/stor3538-3338-4461-a665-393937383635/78911137.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-300gb-990</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 990 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 300 гб в месяц</li>
+				<li>можно использовать в любом устройстве: модем, Wi-Fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">300 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="398000878511">
+			<name>Сим-карта Билайн 500 гб за 1090 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S514</vendorCode>
+			<picture>https://static.tildacdn.com/stor3861-3133-4237-a565-346663666438/14197626.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-500gb-1090</url>
+			<count>9999</count>
+			<price>1000.00</price>
+			<oldprice>1500.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1090 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 500 гб в месяц</li>
+				<li>можно использовать в любом устройстве: модем, Wi-Fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">1000-1500 руб/мес</param>
+			<param name="Объем трафика">500 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="705607786592">
+			<name>Сим-карта Билайн 1000 гб в 3G/4G за 1500 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S544</vendorCode>
+			<picture>https://static.tildacdn.com/stor6337-3733-4263-b433-386232363462/14983604.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-1000gb-1500</url>
+			<count>10</count>
+			<price>1000.00</price>
+			<oldprice>1500.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1500 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 1000 гб в месяц</li>
+				<li>можно использовать в любом устройстве: модем, Wi-Fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">1000-1500 руб/мес</param>
+			<param name="Объем трафика">1000 гб</param>
+			<param name="Поддерживаемые стандарты">4G/LTE</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="652281352652">
+			<name>Сим-карта Билайн безлимит в 3G/4G за 1750 руб/мес</name>
+			<vendor>Билайн</vendor>
+			<vendorCode>S565</vendorCode>
+			<picture>https://static.tildacdn.com/stor3034-3630-4439-b138-643233366166/45320756.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-beeline/sim-karta-beeline-1750</url>
+			<count>9999</count>
+			<price>1000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>411067884087</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1750 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений</li>
+				<li>можно использовать в любом устройстве: модем, Wi-Fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">1000-1500 руб/мес</param>
+			<param name="Объем трафика">Безлимитный в 4G</param>
+			<param name="Поддерживаемые стандарты">4G/LTE</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+		</offer>
+
+		<offer id="334578473381">
+			<name>Сим-карта Мегафон 10 гб за 200 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S345</vendorCode>
+			<picture>https://static.tildacdn.com/stor6466-3564-4232-b031-366365393362/93533098.jpg</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-10gb-200</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 200 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 10 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-500 руб/мес</param>
+			<param name="Объем трафика">10 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+		</offer>
+
+		<offer id="323440068831">
+			<name>Сим-карта Мегафон 1000 гб в 3G/4G за 1100 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S425</vendorCode>
+			<picture>https://static.tildacdn.com/stor6265-3333-4963-b439-376634656539/46271642.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-1000gb-1100</url>
+			<count>98</count>
+			<price>700.00</price>
+			<oldprice>1200.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1100 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 1000 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">1000 - 1500 руб/мес</param>
+			<param name="Объем трафика">1000 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Эко</param>
+		</offer>
+
+		<offer id="904368722901">
+			<name>Сим-карта Мегафон Безлимитный 1050 руб/мес для Северо-Западных регионов</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S395</vendorCode>
+			<picture>https://static.tildacdn.com/stor6165-3166-4532-b363-363031303338/88853246.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-850-spb</url>
+			<count>25</count>
+			<price>1500.00</price>
+			<oldprice>2000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1050 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">1000 - 1200 руб/мес</param>
+			<param name="Объем трафика">Безлимитный</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Санкт Петербург, Ленинградская область, регионы Северо-Запада</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+		</offer>
+
+		<offer id="924420513721">
+			<name>Сим-карта Мегафон безлимит в 3G/4G за 1150 руб/мес по всей России</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S397</vendorCode>
+			<picture>https://static.tildacdn.com/stor3432-3763-4737-b139-316161653261/43592424.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-950-russia</url>
+			<count>50</count>
+			<price>1500.00</price>
+			<oldprice>2000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1150 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1200 руб/мес</param>
+			<param name="Объем трафика">Безлимитный</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="675697213351">
+			<name>Сим-карта Мегафон Безлимитный 1050 руб/мес для регионов Центра</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S415</vendorCode>
+			<picture>https://static.tildacdn.com/stor6637-3263-4564-b235-373036353732/97879063.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-850-cfo</url>
+			<count>18</count>
+			<price>1000.00</price>
+			<oldprice>1500.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1050 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1200 руб/мес</param>
+			<param name="Объем трафика">Безлимитный</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Брянская обл., Владимирская обл., Калужская обл., Курская обл., Нижегородская обл., Орловская обл., Рязанская обл., Тульская</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="683125356951">
+			<name>Сим-карта Мегафон Безлимитный 1050 руб/мес для регионов Поволжья</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S416</vendorCode>
+			<picture>https://static.tildacdn.com/stor3963-3431-4533-b535-343465396466/20189221.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-850-povoljie</url>
+			<count>23</count>
+			<price>1500.00</price>
+			<oldprice>2000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1050 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1200 руб/мес</param>
+			<param name="Объем трафика">Безлимитный</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Астраханская обл., Волгоградская обл., Оренбургская обл., Пензенская обл., Респ. Татарстан, Респ. Башкортостан, Самарская обл., Саратовская обл., Ульяновская обл.</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+		</offer>
+
+		<offer id="346744200051">
+			<name>Сим-карта Мегафон 3 гб за 120 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S459</vendorCode>
+			<picture>https://static.tildacdn.com/stor3636-3532-4134-b261-366436643364/42305167.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-3gb-120rub</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 120 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 3 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-150руб/мес</param>
+			<param name="Объем трафика">3 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="401612516791">
+			<name>Сим-карта Мегафон 5 гб за 150 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S460</vendorCode>
+			<picture>https://static.tildacdn.com/stor3633-6138-4363-b335-386134323834/98345768.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-5gb-150rub</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 150 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 5 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-150руб/мес</param>
+			<param name="Объем трафика">5 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="405736052511">
+			<name>Сим-карта Мегафон 20 гб за 350 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S469</vendorCode>
+			<picture>https://static.tildacdn.com/stor3938-3161-4335-b134-613733346234/37879546.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-20gb-350</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 350 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 20 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">300-500руб/мес</param>
+			<param name="Объем трафика">20 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Мегафон Наши</param>
+		</offer>
+
+		<offer id="182059482871">
+			<name>Сим-карта Мегафон 30 гб за 400 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S470</vendorCode>
+			<picture>https://static.tildacdn.com/stor3862-6138-4564-a332-353831623131/56316551.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-30gb-400</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 400 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 30 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-500 руб/мес</param>
+			<param name="Объем трафика">30 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">вся Россия, кроме Чукотского АО, г. Норильск и Таймырского МР, Республики Крым и г. Севастополь, Камчатского края, Республики Саха (Якутия), Магаданской и Сахалинской областей</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Возможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Мегафон Наши</param>
+		</offer>
+
+		<offer id="211469182561">
+			<name>Сим-карта Мегафон 10 гб за 300 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S472</vendorCode>
+			<picture>https://static.tildacdn.com/stor3065-6265-4135-a262-313064393936/67820559.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-10gb-300rub</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 300 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 10 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">300-500руб/мес</param>
+			<param name="Объем трафика">10 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Мегафон Наши</param>
+		</offer>
+
+		<offer id="951116493551">
+			<name>Сим-карта Мегафон 35 гб за 385 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S475</vendorCode>
+			<picture>https://static.tildacdn.com/stor6166-3166-4336-b935-646363643533/83092943.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-35gb-385</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 385 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 35 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">300-500руб/мес</param>
+			<param name="Объем трафика">35 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+		</offer>
+
+		<offer id="125834480011">
+			<name>Сим-карта Мегафон безлимит 1050 руб/мес для регионов Сибири</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S477</vendorCode>
+			<picture>https://static.tildacdn.com/stor3063-6164-4962-b431-383362626138/69033155.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-950-sibir</url>
+			<count>17</count>
+			<price>1000.00</price>
+			<oldprice>1500.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1050 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1200 руб/мес</param>
+			<param name="Объем трафика">Безлимитный</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Регионы Сибири</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="555091588341">
+			<name>Сим-карта Мегафон безлимит 1050 руб/мес для Дальнего Востока</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S478</vendorCode>
+			<picture>https://static.tildacdn.com/stor6531-6331-4436-b462-376439316632/66975409.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-950-dvostok</url>
+			<count>17</count>
+			<price>1000.00</price>
+			<oldprice>1500.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1050 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1200 руб/мес</param>
+			<param name="Объем трафика">Безлимитный</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Регионы Дального Востока</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="650396336551">
+			<name>eSim Мегафон 500гб за 750 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S406</vendorCode>
+			<picture>https://static.tildacdn.com/stor3930-3732-4562-b139-393635663830/11187428.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/esim-megafon-bezlimit-600</url>
+			<count>9999</count>
+			<price>300.00</price>
+			<oldprice>500.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 750 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 500 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1100 руб/мес</param>
+			<param name="Объем трафика">500гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет</param>
+			<param name="Серия">S2M</param>
+		</offer>
+
+		<offer id="951892963571">
+			<name>Сим-карта Мегафон безлимит в 3G/4G за 1050 руб/мес для регионов Юга</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S396</vendorCode>
+			<picture>https://static.tildacdn.com/stor6333-6232-4762-a364-633038363061/88972172.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-850-ug</url>
+			<count>30</count>
+			<price>1500.00</price>
+			<oldprice>2000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1050 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1200 руб/мес</param>
+			<param name="Объем трафика">Без ограничений</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Кавказ, Краснодар, Ростов, Ставрополь, Воронеж, Липецк, Тамбов, Белгород</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="984918001641">
+			<name>Сим-карта Мегафон 300 гб в 3G/4G за 900 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S518</vendorCode>
+			<picture>https://static.tildacdn.com/stor3966-3135-4863-b265-666131393932/65474486.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-300gb-900</url>
+			<count>996</count>
+			<price>700.00</price>
+			<oldprice>2000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 900 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 300 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">300 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Москва и Московская область</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Эко</param>
+		</offer>
+
+		<offer id="145336246671">
+			<name>Сим-карта Мегафон 100 гб за 600 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S520</vendorCode>
+			<picture>https://static.tildacdn.com/stor3366-3338-4631-b465-633963333131/33126929.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-100gb-600</url>
+			<count>20</count>
+			<price>700.00</price>
+			<oldprice>1200.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 600 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 100 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">100 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="География действия">Вся Россия</param>
+			<param name="Серия">Эко</param>
+		</offer>
+
+		<offer id="771418180001">
+			<name>Сим-карта Мегафон 500 гб в 3G/4G за 1000 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S524</vendorCode>
+			<picture>https://static.tildacdn.com/stor3531-6232-4665-b134-636561653164/98095992.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-500gb-1000</url>
+			<count>100</count>
+			<price>700.00</price>
+			<oldprice>2000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1000 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 500 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">500 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Москва и Московская область</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Эко</param>
+		</offer>
+
+		<offer id="348532937922">
+			<name>Сим-карта Мегафон 3 гб за 160 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S534</vendorCode>
+			<picture>https://static.tildacdn.com/stor6231-3066-4135-b834-366439623334/58736400.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-3gb-160rub</url>
+			<count>28</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 160 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 3 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">3 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">вся Россия, кроме Чукотского АО, г. Норильск и Таймырского МР, Республики Крым и г. Севастополь, Камчатского края, Республики Саха (Якутия), Магаданской и Сахалинской областей</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Мегафон Наши</param>
+		</offer>
+
+		<offer id="239070950712">
+			<name>Сим-карта Мегафон 5 гб за 180 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S535</vendorCode>
+			<picture>https://static.tildacdn.com/stor6362-3261-4261-b666-323431373036/51433945.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-5gb-180rub</url>
+			<count>28</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 180 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 5 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">5 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">вся Россия, кроме Чукотского АО, г. Норильск и Таймырского МР, Республики Крым и г. Севастополь, Камчатского края, Республики Саха (Якутия), Магаданской и Сахалинской областей</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Мегафон Наши</param>
+		</offer>
+
+		<offer id="766970814392">
+			<name>Сим-карта Мегафон 50 гб за 480 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S536</vendorCode>
+			<picture>https://static.tildacdn.com/stor3366-3138-4235-b161-656462633231/82521651.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-50gb-480rub</url>
+			<count>28</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 480 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 50 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">50 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">вся Россия, кроме Чукотского АО, г. Норильск и Таймырского МР, Республики Крым и г. Севастополь, Камчатского края, Республики Саха (Якутия), Магаданской и Сахалинской областей</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Мегафон Наши</param>
+		</offer>
+
+		<offer id="425342728302">
+			<name>Сим-карта Мегафон безлимит в 3G/4G за 1050 руб/мес для Москвы и Подмосковья</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S394</vendorCode>
+			<picture>https://static.tildacdn.com/stor3161-3965-4139-a165-313135313664/77066158.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-bezlimit-3g-4g-850-msk</url>
+			<count>25</count>
+			<price>1500.00</price>
+			<oldprice>2500.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1050 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">Безлимитный</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Москва и МО</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">LT</param>
+		</offer>
+
+		<offer id="197279236462">
+			<name>Сим-карта Мегафон 200 гб и безлимит на мессенджеры и соц сети за 700 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S541</vendorCode>
+			<picture>https://static.tildacdn.com/stor6334-3139-4130-a332-363265616165/82821046.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-200gb-700rub</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<oldprice>1000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 700 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 200 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">200 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Чукотского АО, г. Норильск и Таймырского МР, Республики Крым и г. Севастополь, Камчатского края, Республики Саха (Якутия), Магаданской и Сахалинской областей</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Мегафон Наши</param>
+		</offer>
+
+		<offer id="789095302272">
+			<name>Сим-карта Мегафон 200 гб и безлимит на видео, музыку мессенджеры и соц сети за 750 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S542</vendorCode>
+			<picture>https://static.tildacdn.com/stor3661-6163-4831-b631-306663303738/16957116.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-200gb-750rub</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<oldprice>1000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 750 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 200 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">200 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Чукотского АО, г. Норильск и Таймырского МР, Республики Крым и г. Севастополь, Камчатского края, Республики Саха (Якутия), Магаданской и Сахалинской областей</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Мегафон Наши</param>
+		</offer>
+
+		<offer id="610030367092">
+			<name>Сим-карта Мегафон 70 гб за 500 руб/мес</name>
+			<vendor>МегаФон</vendor>
+			<vendorCode>S471</vendorCode>
+			<picture>https://static.tildacdn.com/stor6465-3533-4636-b961-346532366166/43426840.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-megafon/sim-karta-megafon-70gb-500rub</url>
+			<count>25</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>392807111578</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 500 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 70 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">Безлимитный</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">вся Россия, кроме Чукотского АО, г. Норильск и Таймырского МР, Республики Крым и г. Севастополь, Камчатского края, Республики Саха (Якутия), Магаданской и Сахалинской областей</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Мегафон Наши</param>
+		</offer>
+
+		<offer id="498461977701">
+			<name>Сим-карта МТС 20 Гб за 390 руб/мес</name>
+			<vendor>МТС</vendor>
+			<vendorCode>S399</vendorCode>
+			<picture>https://static.tildacdn.com/stor6265-3638-4139-b061-646162333134/25549503.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-mts/sim-karta-mts-20-gb-390</url>
+			<count>10</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>573337424651</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 390 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 20 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">Менее 500 руб/мес</param>
+			<param name="Объем трафика">20 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+		</offer>
+
+		<offer id="444483030071">
+			<name>Сим-карта МТС 40 Гб за 550 руб/мес</name>
+			<vendor>МТС</vendor>
+			<vendorCode>S400</vendorCode>
+			<picture>https://static.tildacdn.com/stor3635-6265-4838-a435-356565626665/50830648.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-mts/sim-karta-mts-40-gb-550</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>573337424651</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 550 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 40 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500 - 1000 руб/мес</param>
+			<param name="Объем трафика">40 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">SMC</param>
+		</offer>
+
+		<offer id="125243931981">
+			<name>Сим-карта МТС Безлимит 3G/4G 1300 руб/мес для регионов ЮФО</name>
+			<vendor>МТС</vendor>
+			<vendorCode>S446</vendorCode>
+			<picture>https://static.tildacdn.com/stor3534-3562-4861-b464-626433333537/99660329.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-mts/sim-karta-mts-bezlim-1200-ufo</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<oldprice>1500.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>573337424651</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1300 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">Более 1000 руб/мес</param>
+			<param name="Объем трафика">Безлимит</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">SMC</param>
+		</offer>
+
+		<offer id="486689856081">
+			<name>eSim МТС 300 гб интернета за 750 руб/мес</name>
+			<vendor>МТС</vendor>
+			<vendorCode>S407</vendorCode>
+			<picture>https://static.tildacdn.com/stor3938-3665-4466-b039-373434343232/64386980.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-mts/esim-mts-bezlimit-600</url>
+			<count>9999</count>
+			<price>300.00</price>
+			<oldprice>500.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>573337424651</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 750 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 300 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">Менее 1000 руб/мес</param>
+			<param name="Объем трафика">300 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">SMC</param>
+		</offer>
+
+		<offer id="709227189201">
+			<name>Сим-карта МТС 1000 Гб за 1250 руб/мес</name>
+			<vendor>МТС</vendor>
+			<vendorCode>S516</vendorCode>
+			<picture>https://static.tildacdn.com/stor6237-3831-4563-a336-393266373335/48111802.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-mts/sim-karta-mts-1000gb-1250</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<oldprice>1000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>573337424651</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1250 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 1000 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">Менее 1500 руб/мес</param>
+			<param name="Объем трафика">1000 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">SMC</param>
+		</offer>
+
+		<offer id="811854792341">
+			<name>Сим-карта МТС 100 Гб за 650 руб/мес</name>
+			<vendor>МТС</vendor>
+			<vendorCode>S517</vendorCode>
+			<picture>https://static.tildacdn.com/stor3862-6663-4665-b032-613261396162/34249062.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-mts/sim-karta-mts-100gb-650</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<oldprice>1000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>573337424651</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 650 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 100 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">Менее 1000 руб/мес</param>
+			<param name="Объем трафика">100 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">SMC</param>
+		</offer>
+
+		<offer id="141821143111">
+			<name>Сим-карта МТС 300 Гб за 990 руб/мес</name>
+			<vendor>МТС</vendor>
+			<vendorCode>S525</vendorCode>
+			<picture>https://static.tildacdn.com/stor3863-6262-4563-b761-633462666536/39849194.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-mts/sim-karta-mts-300gb-990</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<oldprice>1000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>573337424651</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 990 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 300 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">Менее 1000 руб/мес</param>
+			<param name="Объем трафика">300 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">SMC</param>
+		</offer>
+
+		<offer id="485564419261">
+			<name>Сим-карта МТС 500 Гб за 1100 руб/мес</name>
+			<vendor>МТС</vendor>
+			<vendorCode>S526</vendorCode>
+			<picture>https://static.tildacdn.com/stor6635-3638-4837-b066-343761373235/67093124.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-mts/sim-karta-mts-500gb-1100</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<oldprice>1000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>573337424651</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1100 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 500 гб</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">Менее 1500 руб/мес</param>
+			<param name="Объем трафика">500 гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">SMC</param>
+		</offer>
+
+ 		<offer id="321288626861">
+			<name>Сим-карта Ростелеком (Теле2) 100 гб за 410 руб/мес</name>
+			<vendor>Ростелеком</vendor>
+			<vendorCode>S299</vendorCode>
+			<picture>https://static.tildacdn.com/stor3462-6161-4763-a166-303139346263/68987967.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-rostelecom/sim-karta-rostelecom-150gb-350</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<oldprice>1000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 410 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 100 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте оператора</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">100-500 руб/мес</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="Количество минут">200</param>
+			<param name="Количество SMS">200</param>
+			<param name="Объем трафика">100 ГБ</param>
+			<param name="Скорость">Без ограничений</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Ограничение на торренты">64 кбит/сек</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+		</offer>
+
+		<offer id="519206943421">
+			<name>Сим-карта Теле2 500 Гб за 1890 руб/мес</name>
+			<vendor>TELE2</vendor>
+			<vendorCode>S482</vendorCode>
+			<picture>https://static.tildacdn.com/stor3431-3636-4232-a539-353562333137/58716894.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-tele2/sim-karta-tele2-500gb-1890</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<oldprice>800.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1890 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 500 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">1000-2000 руб/мес</param>
+			<param name="Объем трафика">500 гб</param>
+			<param name="Поддерживаемые стандарты">4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя, г. Норильска</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">SMC</param>
+		</offer>
+
+		<offer id="902427152781">
+			<name>Сим-карта Теле2 300 Гб за 1390 руб/мес</name>
+			<vendor>TELE2</vendor>
+			<vendorCode>S481</vendorCode>
+			<picture>https://static.tildacdn.com/stor3766-6233-4664-a436-633333623565/73389396.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-tele2/sim-karta-tele2-300gb-1390</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 1390 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 300 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">1000-1500 руб/мес</param>
+			<param name="Объем трафика">300 гб</param>
+			<param name="Поддерживаемые стандарты">4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя, г. Норильска</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">SMC</param>
+		</offer>
+
+		<offer id="930868755802">
+			<name>Сим-карта Теле2 2 тб 3G/4G за 2000 руб/мес</name>
+			<vendor>TELE2</vendor>
+			<vendorCode>S543</vendorCode>
+			<picture>https://static.tildacdn.com/stor3661-3931-4737-b466-306235383133/82908971.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-tele2/sim-karta-tele2-2tb-2000</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<oldprice>1000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 2000 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 2 тб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">1000-2000 руб/мес</param>
+			<param name="Объем трафика">2ТБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя, г. Норильска</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">SMC</param>
+		</offer>
+
+		<offer id="550834740002">
+			<name>Сим-карта Теле2 (SkyLink) 140 гб 4G за 675 руб/мес</name>
+			<vendor>Скайлинк</vendor>
+			<vendorCode>S546</vendorCode>
+			<picture>https://static.tildacdn.com/stor3333-3935-4339-a236-363866386631/78249067.jpg</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-skaylink/sim-karta-skylink-140gb-675</url>
+			<count>9999</count>
+			<price>1000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 675 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 140 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500-1000 руб/мес</param>
+			<param name="Объем трафика">140 гб</param>
+			<param name="Поддерживаемые стандарты">4G/LTE</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+		</offer>
+
+		<offer id="589613886092">
+			<name>Сим-карта Теле2 5 гб 3G/4G за 100 руб/мес</name>
+			<vendor>TELE2</vendor>
+			<vendorCode>S550</vendorCode>
+			<picture>https://static.tildacdn.com/stor3537-3839-4338-b734-313563663836/86060420.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-tele2/sim-karta-tele2-5gb-100rub</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 100 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 5 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">до 500 руб/мес</param>
+			<param name="Объем трафика">5 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя, г. Норильска</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Теле2 Наши</param>
+		</offer>
+
+		<offer id="484313515972">
+			<name>Сим-карта Теле2 10 гб 3G/4G за 150 руб/мес</name>
+			<vendor>TELE2</vendor>
+			<vendorCode>S551</vendorCode>
+			<picture>https://static.tildacdn.com/stor3337-6462-4636-a132-643466343631/87873553.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-tele2/sim-karta-tele2-10gb-150rub</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 150 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 10 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">до 300 руб/мес</param>
+			<param name="Объем трафика">10 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя, г. Норильска</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Теле2 Наши</param>
+		</offer>
+
+		<offer id="590718803502">
+			<name>Сим-карта Теле2 15 гб 3G/4G за 200 руб/мес</name>
+			<vendor>TELE2</vendor>
+			<vendorCode>S552</vendorCode>
+			<picture>https://static.tildacdn.com/stor3263-6630-4836-b539-663939393432/18426575.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-tele2/sim-karta-tele2-15gb-200rub</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 200 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 15 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">до 300 руб/мес</param>
+			<param name="Объем трафика">15 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя, г. Норильска</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Теле2 Наши</param>
+		</offer>
+
+		<offer id="452388737192">
+			<name>Сим-карта Теле2 30 гб 3G/4G за 250 руб/мес</name>
+			<vendor>TELE2</vendor>
+			<vendorCode>S553</vendorCode>
+			<picture>https://static.tildacdn.com/stor3032-3336-4435-a561-656532633165/12491515.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-tele2/sim-karta-tele2-30gb-250rub</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 250 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 30 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">до 300 руб/мес</param>
+			<param name="Объем трафика">30 ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя, г. Норильска</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Теле2 Наши</param>
+		</offer>
+
+		<offer id="908540209782">
+			<name>Сим-карта Теле2 50 гб 3G/4G за 450 руб/мес</name>
+			<vendor>TELE2</vendor>
+			<vendorCode>S554</vendorCode>
+			<picture>https://static.tildacdn.com/stor3039-6237-4366-b139-363866373630/37964470.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-tele2/sim-karta-tele2-50gb-450</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 450 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 50 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">до 500 руб/мес</param>
+			<param name="Объем трафика">50ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя, г. Норильска</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Теле2 Наши</param>
+		</offer>
+
+		<offer id="438866595112">
+			<name>Сим-карта Теле2 100 гб 3G/4G за 750 руб/мес</name>
+			<vendor>TELE2</vendor>
+			<vendorCode>S555</vendorCode>
+			<picture>https://static.tildacdn.com/stor3439-3265-4161-a537-343932376666/94998992.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-tele2/sim-karta-tele2-100gb-750</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 750 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 100 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">500 - 1000 руб/мес</param>
+			<param name="Объем трафика">100ГБ</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя, г. Норильска</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Теле2 Наши</param>
+		</offer>
+
+		<offer id="850469051972">
+			<name>Сим-карта Теле2 1 гб 3G/4G за 90 руб/мес</name>
+			<vendor>TELE2</vendor>
+			<vendorCode>S549</vendorCode>
+			<picture>https://static.tildacdn.com/stor6364-3339-4364-b031-373164323465/77469262.png</picture>
+			<url>https://shop.bezlimitik.ru/bezlimitnyj-internet-tele2/sim-karta-tele2-1gb-90rub</url>
+			<count>9999</count>
+			<price>700.00</price>
+			<oldprice>1000.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>625100042787</categoryId>
+			<delivery>true</delivery>
+			<pickup>true</pickup>
+			<store>false</store>
+			<weight>0.05</weight>
+			<dimensions>13/9/0.2</dimensions>
+			<description>
+			<![CDATA[
+				<li>абонентская плата: 90 руб. в месяц</li>
+				<li>включенный объем трафика без ограничений по скорости - 1 гб в месяц</li>
+				<li>сим-карту можно использовать в любом устройстве: смартфон, планшет, модем, wi-fi роутер</li>
+				<li>нет ограничений на раздачу интернета по сети wi-fi</li>
+				<li>личный кабинет на сайте сервис-провайдера</li>
+				<li>сим-карта только для интернета, звонков и SMS нет</li>
+			]]>
+			</description>
+			<param name="Абонентская плата">до 100 руб/мес</param>
+			<param name="Объем трафика">1гб</param>
+			<param name="Поддерживаемые стандарты">2G/3G/4G</param>
+			<param name="География действия">Вся Россия, кроме Дальнего Востока, Крыма и Севастополя, г. Норильска</param>
+			<param name="Ограничение на торренты">Ограничений нет</param>
+			<param name="Оформление на юрлицо">Невозможно</param>
+			<param name="Для каких устройств">Смартфон, планшет, роутер, модем</param>
+			<param name="Серия">Теле2 Наши</param>
+		</offer>
+	</offers>
+</shop>
+</yml_catalog>
